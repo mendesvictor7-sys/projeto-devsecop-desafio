@@ -30,7 +30,10 @@ Atualizar as dependências em package.json minimiza o risco de ser impactado por
 
 Artifact v4 está desatualizado. Alterado para 4.1.3
 
+Habilitado github pages.
+
 
 
 ## URL de Produção
 > Adicione aqui o link do GitHub Pages após o deploy.
+https://mendesvictor7-sys.github.io/projeto-devsecop-desafio/
