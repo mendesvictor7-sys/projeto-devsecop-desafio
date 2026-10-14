@@ -23,8 +23,14 @@ A pipeline está **incompleta**. Os steps de segurança precisam ser implementad
 - [ ] Deploy com **GitHub Pages**
 
 ## Como a pipeline funciona
-> **Substitua este bloco pela sua explicação após implementar a pipeline.**
-> Descreva cada step, o que ele faz e por que ele é importante para a segurança.
+
+Remover a função eval() previne sql injection.
+
+Atualizar as dependências em package.json minimiza o risco de ser impactado por vulnerabilidades conhecidas.
+
+Artifact v4 está desatualizado. Alterado para 4.1.3
+
+
 
 ## URL de Produção
 > Adicione aqui o link do GitHub Pages após o deploy.
